@@ -1,0 +1,7 @@
+Press "SPACE" to start playing.
+
+Press "W", "A", "S", "D" keys to control the lachesis movements.
+
+Use Mouse to navigate to the places.
+
+
